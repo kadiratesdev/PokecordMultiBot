@@ -1,14 +1,24 @@
 # Pokecord MultiBot
 
-https://github.com/abdulkadirates06/PokecordMultiBot
+Automatic pokemon generation and catch tool.
+
+
 
 # Install Bot
 
 * Download *pokecordxx.zip 
 * Extrach to any directory
+* Open botconfig.json
+* Edit Token Value (<a href="">How To Get Token</a>)
+* Edit Channel ID 
+* Edit Pokemon Count (How to get Pokemon Count: <code>p!info</code> )
 * Open Terminal/Cmd 
 * For Start :  <code>node index.js</code>
 
+# Commands
+
+* <code>!pokespam </code> Sends continuous message to discord channel to catch new pokemon
+* <code>!reset </code> Restarts the bot
 
 # Requirements
 
@@ -44,4 +54,6 @@ https://github.com/abdulkadirates06/PokecordMultiBot
 ### Contact 
 
 URL : https://discord.gg/WwYD2AK
+
+https://github.com/abdulkadirates06/PokecordMultiBot
 
