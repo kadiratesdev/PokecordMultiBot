@@ -1,6 +1,8 @@
-# PokeAssistant
+# Pokecord MultiBot
 
-https://github.com/CHamburr/PokeAssistant
+https://github.com/abdulkadirates06/PokecordMultiBot
 
 
-### Made by [CHamburr#2591](https://github.com/CHamburr/PokeAssistant)
+### Contact 
+
+URL : https://discord.gg/WwYD2AK
