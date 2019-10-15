@@ -10,7 +10,7 @@ Automatic pokemon generation and catch tool.
 * Extrach to any directory
 * Open botconfig.json
 * Edit Token Value (<a href="https://i.hizliresim.com/Lv0mqJ.png">How To Get Token</a>)
-* Edit Channel ID 
+* Edit Channel ID  (<a href="https://www.youtube.com/watch?v=6dqYctHmazc">How to get Channel ID</a>)
 * Edit Pokemon Count (How to get Pokemon Count: <code>p!info</code> )
 * Open Terminal/Cmd 
 * For Start :  <code>node index.js</code>
