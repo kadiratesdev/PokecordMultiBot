@@ -6,7 +6,7 @@ Automatic pokemon generation and catch tool.
 
 # Install Bot
 
-* Download *pokecordxx.zip 
+* Download *master.zip 
 * Extrach to any directory
 * Open botconfig.json
 * Edit Token Value (<a href="https://i.hizliresim.com/Lv0mqJ.png">How To Get Token</a>)
