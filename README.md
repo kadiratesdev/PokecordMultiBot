@@ -9,7 +9,7 @@ Automatic pokemon generation and catch tool.
 * Download *pokecordxx.zip 
 * Extrach to any directory
 * Open botconfig.json
-* Edit Token Value (<a href="">How To Get Token</a>)
+* Edit Token Value (<a href="https://i.hizliresim.com/Lv0mqJ.png">How To Get Token</a>)
 * Edit Channel ID 
 * Edit Pokemon Count (How to get Pokemon Count: <code>p!info</code> )
 * Open Terminal/Cmd 
