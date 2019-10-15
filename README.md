@@ -22,7 +22,7 @@ https://github.com/abdulkadirates06/PokecordMultiBot
  # NodeJS Download(GNU Linux On Debian , Ubuntu , Linux Mint:)
  <code>sudo apt update</code>
  
- <code>sudo apt install nodejs</code>
+ <code>sudo apt install nodejs</code><br>
  
  <code>sudo apt install nodejs</code>
  
@@ -32,7 +32,7 @@ https://github.com/abdulkadirates06/PokecordMultiBot
 
   # NodeJS Install (GNU Linux On  RHEL , CentOS)
   
-  <code>sudo yum install epel-release</code>
+  <code>sudo yum install epel-release</code><br>
   <code>sudo yum install nodejs npm </code>
   
   # NodeJS Install (GNU Linux On Fedora)
