@@ -103,10 +103,10 @@ client.on('message', function(message) {
 
 client.on('message', function(message) {
   let prefix ="!";
-  if (message.content === prefix+"durdur") { 
+  if (message.content === prefix+"reset") { 
     durum = false;
       clearInterval(interval);
-      client.channels.get(botconfig.channel).send("Durdu");
+      client.channels.get(botconfig.channel).send("Stopped");
       resetBot(botconfig.channel);
     
   }
