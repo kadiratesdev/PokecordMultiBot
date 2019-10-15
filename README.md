@@ -19,7 +19,7 @@ https://github.com/abdulkadirates06/PokecordMultiBot
 
  1- Download NodeJs from https://nodejs.org/en/
  
- # NodeJS Download(GNU Linux On Debian , Ubuntu , Linux Mint:)
+ # NodeJS Install (GNU Linux On Debian , Ubuntu , Linux Mint)
  <code>sudo apt update</code>
  
  <code>sudo apt install nodejs</code><br>
