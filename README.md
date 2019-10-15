@@ -2,12 +2,12 @@
 
 Automatic pokemon generation and catch tool.
 
-Ex. ScreenShot 
+# Ex. ScreenShot 
 
 <img  src="https://i.hizliresim.com/5NzbjM.png">
 <img src="https://i.hizliresim.com/OrOmj0.png">
 
-Ex. Video
+# Ex. Video
 
 <a href="https://drive.google.com/file/d/1dz8MVBTRBMOEDJ4FOR11Dfnf8vibhTSa/view?usp=sharing">Enter the watching Ex. Video </a>
 
